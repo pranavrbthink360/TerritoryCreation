@@ -1,0 +1,674 @@
+[
+ {
+  "Column3": "HATTIESBURG_MS_LTC",
+  "Column6": 448,
+  "Column7": 530.7090985714286,
+  "Column8": 1.1846185235969389,
+  "Payout": 21646.307656250006
+ },
+ {
+  "Column3": "BRONX_NY_LTC",
+  "Column6": 300,
+  "Column7": 334.9655228571429,
+  "Column8": 1.116551742857143,
+  "Payout": 18311.035400000004
+ },
+ {
+  "Column3": "BRADENTON_FL_LTC",
+  "Column6": 356,
+  "Column7": 391.06129714285714,
+  "Column8": 1.0984867897271269,
+  "Payout": 17447.03764044944
+ },
+ {
+  "Column3": "LUBBOCK_TX_HYBRID",
+  "Column6": 268,
+  "Column7": 284.09205857142854,
+  "Column8": 1.0600449946695094,
+  "Payout": 16101.574813432826
+ },
+ {
+  "Column3": "BLOOMINGTON_IN_SPC",
+  "Column6": 246,
+  "Column7": 259.6163785714286,
+  "Column8": 1.0553511324041813,
+  "Payout": 15937.289634146344
+ },
+ {
+  "Column3": "LAS_VEGAS_NV_HYBRID",
+  "Column6": 176,
+  "Column7": 180.77139857142856,
+  "Column8": 1.027110219155844,
+  "Payout": 14948.857670454543
+ },
+ {
+  "Column3": "SAN_FRANCISCO_CA_SPC",
+  "Column6": 359,
+  "Column7": 362.76064285714284,
+  "Column8": 1.010475328292877,
+  "Payout": 14366.636490250692
+ },
+ {
+  "Column3": "ASHEVILLE_NC_LTC",
+  "Column6": 395,
+  "Column7": 397.5713614285714,
+  "Column8": 1.006509775768535,
+  "Payout": 14227.842151898727
+ },
+ {
+  "Column3": "MOBILE_AL_LTC",
+  "Column6": 593,
+  "Column7": 591.7948242857142,
+  "Column8": 0.9979676632136832,
+  "Payout": 13943.09456998313
+ },
+ {
+  "Column3": "NORTH_CHICAGO_IL_SPC",
+  "Column6": 275,
+  "Column7": 272.8556657142857,
+  "Column8": 0.9922024207792207,
+  "Payout": 13781.66778181818
+ },
+ {
+  "Column3": "BIRMINGHAM_AL_SPC",
+  "Column6": 517,
+  "Column7": 511.2577457142857,
+  "Column8": 0.9888931251726997,
+  "Payout": 13689.00750483559
+ },
+ {
+  "Column3": "RICHMOND_VA_LTC",
+  "Column6": 545,
+  "Column7": 535.2684471428571,
+  "Column8": 0.9821439397116644,
+  "Payout": 13500.030311926603
+ },
+ {
+  "Column3": "NASHVILLE_TN_SPC",
+  "Column6": 238,
+  "Column7": 231.80565857142858,
+  "Column8": 0.9739733553421369,
+  "Payout": 13271.253949579834
+ },
+ {
+  "Column3": "FAIRFAX_VA_SPC",
+  "Column6": 439,
+  "Column7": 426.9177557142857,
+  "Column8": 0.9724778034493979,
+  "Payout": 13229.378496583142
+ },
+ {
+  "Column3": "EAST_TX_LTC",
+  "Column6": 487,
+  "Column7": 471.2569671428571,
+  "Column8": 0.9676734438251686,
+  "Payout": 13094.856427104722
+ },
+ {
+  "Column3": "KANSAS_CITY_MO_LTC",
+  "Column6": 334,
+  "Column7": 319.20559285714285,
+  "Column8": 0.955705367835757,
+  "Payout": 12759.750299401196
+ },
+ {
+  "Column3": "NORWICH_CT_SPC",
+  "Column6": 419,
+  "Column7": 394.91487428571423,
+  "Column8": 0.9425175997272416,
+  "Payout": 12390.492792362764
+ },
+ {
+  "Column3": "JERSEY_SHORE_NJ_LTC",
+  "Column6": 483,
+  "Column7": 454.40133428571426,
+  "Column8": 0.9407895119787044,
+  "Payout": 12342.106335403723
+ },
+ {
+  "Column3": "ALBANY_NY_SPC",
+  "Column6": 555,
+  "Column7": 508.7977542857143,
+  "Column8": 0.9167527104247104,
+  "Payout": 11669.075891891891
+ },
+ {
+  "Column3": "ATLANTA_GA_LTC",
+  "Column6": 425,
+  "Column7": 387.1748271428571,
+  "Column8": 0.9109995932773108,
+  "Payout": 11507.988611764704
+ },
+ {
+  "Column3": "MARLBOROUGH_CT_SPC",
+  "Column6": 313,
+  "Column7": 283.5992057142857,
+  "Column8": 0.9060677498858968,
+  "Payout": 11369.89699680511
+ },
+ {
+  "Column3": "DUBLIN_GA_LTC",
+  "Column6": 256,
+  "Column7": 230.01491571428573,
+  "Column8": 0.8984957645089287,
+  "Payout": 11157.881406250002
+ },
+ {
+  "Column3": "PROVIDENCE_RI_SPC",
+  "Column6": 463,
+  "Column7": 415.85416714285714,
+  "Column8": 0.8981731471767973,
+  "Payout": 11148.848120950324
+ },
+ {
+  "Column3": "CHARLOTTE_NC_LTC",
+  "Column6": 452,
+  "Column7": 404.8648671428571,
+  "Column8": 0.8957187326169406,
+  "Payout": 11080.124513274335
+ },
+ {
+  "Column3": "AUGUSTA_GA_SPC",
+  "Column6": 394,
+  "Column7": 351.14624571428567,
+  "Column8": 0.89123412617839,
+  "Payout": 10954.555532994922
+ },
+ {
+  "Column3": "EAST_PHOENIX_AZ_SPC",
+  "Column6": 639,
+  "Column7": 568.8377228571428,
+  "Column8": 0.8901998792756538,
+  "Payout": 10925.596619718306
+ },
+ {
+  "Column3": "COLUMBIA_MO_SPC",
+  "Column6": 427,
+  "Column7": 378.20276999999993,
+  "Column8": 0.8857207728337235,
+  "Payout": 10800.181639344259
+ },
+ {
+  "Column3": "RALEIGH_NC_SPC",
+  "Column6": 470,
+  "Column7": 412.9720371428571,
+  "Column8": 0.8786639088145897,
+  "Payout": 10602.58944680851
+ },
+ {
+  "Column3": "YOUNGSTOWN_OH_HYBRID",
+  "Column6": 746,
+  "Column7": 654.1498414285714,
+  "Column8": 0.8768764630409805,
+  "Payout": 10552.540965147455
+ },
+ {
+  "Column3": "PLANO_TX_SPC",
+  "Column6": 351,
+  "Column7": 302.33348571428576,
+  "Column8": 0.8613489621489623,
+  "Payout": 10117.770940170944
+ },
+ {
+  "Column3": "SAN_JOSE_CA_LTC",
+  "Column6": 545,
+  "Column7": 467.15910428571425,
+  "Column8": 0.8571726684141546,
+  "Payout": 10000.83471559633
+ },
+ {
+  "Column3": "FORT_LAUDERDALE_FL_SPC",
+  "Column6": 448,
+  "Column7": 383.85133285714284,
+  "Column8": 0.8568110108418366,
+  "Payout": 9990.708303571426
+ },
+ {
+  "Column3": "CLEARWATER_FL_LTC",
+  "Column6": 1029,
+  "Column7": 878.27694,
+  "Column8": 0.8535247230320699,
+  "Payout": 9898.692244897957
+ },
+ {
+  "Column3": "OKLAHOMA_CITY_OK_SPC",
+  "Column6": 552,
+  "Column7": 471.10344428571426,
+  "Column8": 0.8534482686335403,
+  "Payout": 9896.551521739126
+ },
+ {
+  "Column3": "COLUMBUS_OH_SPC",
+  "Column6": 741,
+  "Column7": 630.5905585714285,
+  "Column8": 0.8509994042799305,
+  "Payout": 9827.983319838051
+ },
+ {
+  "Column3": "PHILADELPHIA_PA_SPC",
+  "Column6": 619,
+  "Column7": 522.1955871428571,
+  "Column8": 0.8436116108931455,
+  "Payout": 9621.125105008074
+ },
+ {
+  "Column3": "FRESNO_CA_HYBRID",
+  "Column6": 482,
+  "Column7": 404.45418428571423,
+  "Column8": 0.8391165649081208,
+  "Payout": 9495.263817427382
+ },
+ {
+  "Column3": "AURORA_IL_SPC",
+  "Column6": 319,
+  "Column7": 266.0377757142857,
+  "Column8": 0.8339742185400806,
+  "Payout": 9351.278119122255
+ },
+ {
+  "Column3": "LOS_ANGELES_CA_SPC",
+  "Column6": 603,
+  "Column7": 501.80843571428574,
+  "Column8": 0.8321864605543711,
+  "Payout": 9301.220895522389
+ },
+ {
+  "Column3": "COLUMBIA_SC_LTC",
+  "Column6": 293,
+  "Column7": 243.6427457142857,
+  "Column8": 0.8315452072159921,
+  "Payout": 9283.265802047777
+ },
+ {
+  "Column3": "TYLER_TX_SPC",
+  "Column6": 339,
+  "Column7": 279.4563685714285,
+  "Column8": 0.8243550695322376,
+  "Payout": 9081.94194690265
+ },
+ {
+  "Column3": "MONROE_LA_LTC",
+  "Column6": 349,
+  "Column7": 286.5834857142857,
+  "Column8": 0.821156119525174,
+  "Payout": 8992.37134670487
+ },
+ {
+  "Column3": "OXFORD_MS_LTC",
+  "Column6": 315,
+  "Column7": 258.17776285714285,
+  "Column8": 0.8196119455782312,
+  "Payout": 8949.134476190473
+ },
+ {
+  "Column3": "SAN_ANTONIO_TX_SPC",
+  "Column6": 438,
+  "Column7": 357.2313428571428,
+  "Column8": 0.8155966731898238,
+  "Payout": 8836.706849315064
+ },
+ {
+  "Column3": "TULSA_OK_SPC",
+  "Column6": 299,
+  "Column7": 242.16996,
+  "Column8": 0.8099329765886287,
+  "Payout": 8678.123344481603
+ },
+ {
+  "Column3": "FISHKILL_NY_SPC",
+  "Column6": 334,
+  "Column7": 269.3392285714286,
+  "Column8": 0.806404875962361,
+  "Payout": 8579.336526946106
+ },
+ {
+  "Column3": "ROANOKE_VA_LTC",
+  "Column6": 644,
+  "Column7": 518.6526985714286,
+  "Column8": 0.8053613331854481,
+  "Payout": 8550.117329192546
+ },
+ {
+  "Column3": "PITTSBURGH_PA_LTC",
+  "Column6": 362,
+  "Column7": 291.0548657142857,
+  "Column8": 0.8040189660615628,
+  "Payout": 8512.531049723755
+ },
+ {
+  "Column3": "FORT_COLLINS_CO_LTC",
+  "Column6": 997,
+  "Column7": 792.3297985714286,
+  "Column8": 0.7947139403926063,
+  "Payout": 8251.990330992976
+ },
+ {
+  "Column3": "GREENSBORO_NC_LTC",
+  "Column6": 323,
+  "Column7": 256.02916714285715,
+  "Column8": 0.7926599601946042,
+  "Payout": 8194.478885448914
+ },
+ {
+  "Column3": "JACKSON_TN_SPC",
+  "Column6": 347,
+  "Column7": 275.0106471428571,
+  "Column8": 0.7925378880197612,
+  "Payout": 8191.060864553312
+ },
+ {
+  "Column3": "WASHINGTON_DC_SPC",
+  "Column6": 266,
+  "Column7": 210.67129285714282,
+  "Column8": 0.7919973415682061,
+  "Payout": 8175.92556390977
+ },
+ {
+  "Column3": "WILMINGTON_NC_SPC",
+  "Column6": 802,
+  "Column7": 633.9119742857143,
+  "Column8": 0.7904139330245815,
+  "Payout": 8131.590124688281
+ },
+ {
+  "Column3": "MEMPHIS_TN_SPC",
+  "Column6": 345,
+  "Column7": 269.21777571428566,
+  "Column8": 0.7803413788819874,
+  "Payout": 7849.558608695647
+ },
+ {
+  "Column3": "MONTGOMERY_AL_LTC",
+  "Column6": 281,
+  "Column7": 219.2677414285714,
+  "Column8": 0.7803122470767666,
+  "Payout": 7848.742918149465
+ },
+ {
+  "Column3": "KANSAS_CITY_KS_SPC",
+  "Column6": 546,
+  "Column7": 423.6056014285714,
+  "Column8": 0.7758344348508633,
+  "Payout": 7723.364175824174
+ },
+ {
+  "Column3": "BOSTON_MA_SPC",
+  "Column6": 301,
+  "Column7": 233.05921714285714,
+  "Column8": 0.7742831134314191,
+  "Payout": 7679.927176079735
+ },
+ {
+  "Column3": "OCALA_FL_LTC",
+  "Column6": 441,
+  "Column7": 339.7591542857142,
+  "Column8": 0.7704289212827986,
+  "Payout": 7572.009795918361
+ },
+ {
+  "Column3": "ROCHESTER_NY_HYBRID",
+  "Column6": 442,
+  "Column7": 339.3177,
+  "Column8": 0.7676871040723982,
+  "Payout": 7495.238914027148
+ },
+ {
+  "Column3": "WORCESTER_MA_HYBRID",
+  "Column6": 386,
+  "Column7": 295.56993,
+  "Column8": 0.765725207253886,
+  "Payout": 7440.305803108809
+ },
+ {
+  "Column3": "FORT_WORTH_TX_LTC",
+  "Column6": 428,
+  "Column7": 326.99482714285716,
+  "Column8": 0.7640066054739654,
+  "Payout": 7392.18495327103
+ },
+ {
+  "Column3": "JOHNSON_CITY_TN_SPC",
+  "Column6": 298,
+  "Column7": 224.19280285714288,
+  "Column8": 0.7523248418024929,
+  "Payout": 7065.095570469802
+ },
+ {
+  "Column3": "CHICAGO_IL_LTC",
+  "Column6": 522,
+  "Column7": 392.50133571428574,
+  "Column8": 0.7519182676518884,
+  "Payout": 7053.711494252875
+ },
+ {
+  "Column3": "GREENVILLE_SC_SPC",
+  "Column6": 312,
+  "Column7": 233.92779,
+  "Column8": 0.7497685576923077,
+  "Payout": 6993.519615384615
+ },
+ {
+  "Column3": "SOUTH_BEND_IN_SPC",
+  "Column6": 293,
+  "Column7": 219.37066285714286,
+  "Column8": 0.7487053339834228,
+  "Payout": 6963.749351535837
+ },
+ {
+  "Column3": "DALLAS_TX_LTC",
+  "Column6": 647,
+  "Column7": 477.8926971428571,
+  "Column8": 0.7386285890925148,
+  "Payout": 6681.600494590415
+ },
+ {
+  "Column3": "DENVER_CO_HYBRID",
+  "Column6": 222,
+  "Column7": 163.69708714285716,
+  "Column8": 0.7373742664092665,
+  "Payout": 6646.479459459462
+ },
+ {
+  "Column3": "SIOUX_FALLS_SD_HYBRID",
+  "Column6": 271,
+  "Column7": 198.06204857142853,
+  "Column8": 0.7308562677912492,
+  "Payout": 6463.9754981549795
+ },
+ {
+  "Column3": "DAYTON_OH_LTC",
+  "Column6": 354,
+  "Column7": 257.40907285714286,
+  "Column8": 0.7271442736077481,
+  "Payout": 6360.039661016948
+ },
+ {
+  "Column3": "EVANSVILLE_IN_SPC",
+  "Column6": 652,
+  "Column7": 473.54276571428574,
+  "Column8": 0.7262925854513584,
+  "Payout": 6336.192392638037
+ },
+ {
+  "Column3": "SPRINGFIELD_MO_SPC",
+  "Column6": 313,
+  "Column7": 226.58706428571426,
+  "Column8": 0.7239203331811958,
+  "Payout": 6269.7693290734815
+ },
+ {
+  "Column3": "GLENDALE_CA_LTC",
+  "Column6": 506,
+  "Column7": 366.15058285714287,
+  "Column8": 0.7236177526821005,
+  "Payout": 6261.297075098814
+ },
+ {
+  "Column3": "SACRAMENTO_HYBRID",
+  "Column6": 353,
+  "Column7": 253.50921428571428,
+  "Column8": 0.7181564144071226,
+  "Payout": 6108.379603399435
+ },
+ {
+  "Column3": "TAMPA_FL_LTC",
+  "Column6": 328,
+  "Column7": 234.85564285714284,
+  "Column8": 0.7160233013937282,
+  "Payout": 6048.652439024389
+ },
+ {
+  "Column3": "KNOXVILLE_TN_SPC",
+  "Column6": 233,
+  "Column7": 166.41782142857144,
+  "Column8": 0.7142395769466585,
+  "Payout": 5998.708154506439
+ },
+ {
+  "Column3": "BATON_ROUGE_LA_LTC",
+  "Column6": 473,
+  "Column7": 337.59056999999996,
+  "Column8": 0.7137221353065538,
+  "Payout": 5984.219788583508
+ },
+ {
+  "Column3": "ORLANDO_FL_SPC",
+  "Column6": 393,
+  "Column7": 279.7684885714286,
+  "Column8": 0.7118791057797165,
+  "Payout": 5932.614961832062
+ },
+ {
+  "Column3": "CHARLESTON_SC_SPC",
+  "Column6": 292,
+  "Column7": 207.73210285714282,
+  "Column8": 0.7114113111545987,
+  "Payout": 5919.516712328764
+ },
+ {
+  "Column3": "GRAND_RAPIDS_MI_HYBRID",
+  "Column6": 527,
+  "Column7": 373.7413285714286,
+  "Column8": 0.709186581729466,
+  "Payout": 5857.22428842505
+ },
+ {
+  "Column3": "NEWPORT_BEACH_CA_SPC",
+  "Column6": 554,
+  "Column7": 392.87629714285714,
+  "Column8": 0.7091629912325941,
+  "Payout": 5856.563754512636
+ },
+ {
+  "Column3": "CLEVELAND_OH_SPC",
+  "Column6": 378,
+  "Column7": 265.2006642857143,
+  "Column8": 0.7015890589569161,
+  "Payout": 5644.493650793654
+ },
+ {
+  "Column3": "ALBANY_GA_SPC",
+  "Column6": 410,
+  "Column7": 286.6927585714286,
+  "Column8": 0.699250630662021,
+  "Payout": 0
+ },
+ {
+  "Column3": "MIAMI_FL_SPC",
+  "Column6": 376,
+  "Column7": 260.86492285714286,
+  "Column8": 0.693789688449848,
+  "Payout": 0
+ },
+ {
+  "Column3": "FARMINGTON_MI_SPC",
+  "Column6": 341,
+  "Column7": 233.60707714285715,
+  "Column8": 0.6850647423544198,
+  "Payout": 0
+ },
+ {
+  "Column3": "N_INDIANAPOLIS_IN_SPC",
+  "Column6": 452,
+  "Column7": 308.63564142857143,
+  "Column8": 0.6828222155499368,
+  "Payout": 0
+ },
+ {
+  "Column3": "SAN_DIEGO_CA_SPC",
+  "Column6": 418,
+  "Column7": 283.6234928571428,
+  "Column8": 0.6785251025290499,
+  "Payout": 0
+ },
+ {
+  "Column3": "FLUSHING_NY_SPC",
+  "Column6": 362,
+  "Column7": 245.08992857142854,
+  "Column8": 0.6770440015785318,
+  "Payout": 0
+ },
+ {
+  "Column3": "LOUISVILLE_KY_LTC",
+  "Column6": 484,
+  "Column7": 324.47268,
+  "Column8": 0.6703980991735538,
+  "Payout": 0
+ },
+ {
+  "Column3": "MILWAUKEE_WI_LTC",
+  "Column6": 470,
+  "Column7": 306.90479999999997,
+  "Column8": 0.6529889361702127,
+  "Payout": 0
+ },
+ {
+  "Column3": "ST_LOUIS_MO_SPC",
+  "Column6": 609,
+  "Column7": 396.6941914285714,
+  "Column8": 0.6513861928219563,
+  "Payout": 0
+ },
+ {
+  "Column3": "ORANGE_COUNTY_CA_LTC",
+  "Column6": 236,
+  "Column7": 153.10201714285714,
+  "Column8": 0.6487373607748184,
+  "Payout": 0
+ },
+ {
+  "Column3": "FLINT_MI_HYBRID",
+  "Column6": 321,
+  "Column7": 207.75922714285713,
+  "Column8": 0.6472250066755674,
+  "Payout": 0
+ },
+ {
+  "Column3": "SEATTLE_WA_SPC",
+  "Column6": 429,
+  "Column7": 265.44778285714284,
+  "Column8": 0.6187594005994006,
+  "Payout": 0
+ },
+ {
+  "Column3": "ROME_GA_LTC",
+  "Column6": 244,
+  "Column7": 150.45918857142857,
+  "Column8": 0.616636018735363,
+  "Payout": 0
+ },
+ {
+  "Column3": "CAPE_GIRARDEAU_MO_LTC",
+  "Column6": 258,
+  "Column7": 153.16278,
+  "Column8": 0.5936541860465117,
+  "Payout": 0
+ },
+ {
+  "Column3": "AUSTIN_TX_LTC",
+  "Column6": 376,
+  "Column7": 183.64419857142857,
+  "Column8": 0.4884154217325228,
+  "Payout": 0
+ }
+]
